@@ -1,4 +1,4 @@
-package main
+package graw
 
 import (
 	"encoding/xml"
